@@ -115,12 +115,6 @@ AI / LLM         AWS Bedrock · Claude API · OpenAI · RAG pipelines · LLM red
 ### `$ git log --graph --all`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaysuri26-lgtm&bg_color=000000&color=00e5ff&line=00e5ff&point=fbbf24&area=true&area_color=0a1628&hide_border=true&radius=4" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pranaysuri26-lgtm&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00e5ff&text_color=888888&icon_color=fbbf24&border_color=1a1a1a&rank_icon=github&hide_border=false" height="140"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=pranaysuri26-lgtm&theme=dark&background=0d0d0d&ring=00e5ff&fire=fbbf24&currStreakLabel=00e5ff&sideLabels=888888&border=1a1a1a&dates=555555" height="140"/>
