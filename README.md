@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waveDropper&color=0:000000,50:0a1628,100:000000&height=120&section=header"/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=3000&color=00E5FF&center=true&vCenter=true&width=500&height=30&lines=IDENTITY+VERIFICATION+...+COMPLETE;CLEARANCE+LEVEL+...+AUTHORIZED;LOADING+OPERATOR+PROFILE+...+OK" alt="boot" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=2500&color=00E5FF&center=true&vCenter=true&multiline=false&width=520&height=40&lines=IDENTITY+VERIFICATION+...+COMPLETE;CLEARANCE+LEVEL+...+AUTHORIZED;LOADING+OPERATOR+PROFILE+...+OK" alt="boot" />
+
 </div>
 
 <br/>
@@ -129,8 +129,6 @@ AI / LLM         AWS Bedrock · Claude API · OpenAI · RAG pipelines · LLM red
 <br/>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waveDropper&color=0:000000,50:0a1628,100:000000&height=80&section=footer&reversal=true"/>
 
 <div align="center">
 <sub><code>// pranaysuri.com &nbsp;·&nbsp; All systems operational &nbsp;·&nbsp; PSS_</code></sub>
