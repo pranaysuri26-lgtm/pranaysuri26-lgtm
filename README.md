@@ -13,7 +13,7 @@
 
   HANDLE      Pranay Singh Suri
   CALLSIGN    PSS_
-  BASE        Atlanta, GA  [UTC-5]
+  BASE        Atlanta, GA  [ET]
   ROLE        Associate Security Engineer @ Coalfire Systems
   OBJECTIVE   FedRAMP · SOC 1/2/3 · Third-Party Risk · AI Security
   LINK        https://pranaysuri.com
@@ -66,6 +66,10 @@ PID   NAME             STACK              STATUS    DESCRIPTION
 004   socialiq         React · JS         PUBLIC    Social engineering psychology mapper.
       github/socialiq                               Attack vector visualization for sec
                                                     awareness training and phishing sim.
+
+005   ai-sast-auditor  Python · Claude    PUBLIC    One-click AI security audit from a
+      github/ai-sast-auditor                        VS Code status-bar button. OWASP Top
+                                                    10 + CWE findings with remediation.
 ```
 
 ---
