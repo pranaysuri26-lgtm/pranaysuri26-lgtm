@@ -83,7 +83,7 @@ PID   NAME             STACK              STATUS    DESCRIPTION
 [2026 · BSides Seattle · Seattle, WA    ]  ✓  "Behind the Audit: SOC and ITGC Controls"
 [2026 · BSidesKC       · Kansas City, MO]  ✓  "AI-Powered GRC: ML for Risk Prediction"
 [2026 · BSidesSATX     · San Antonio, TX]  →  "The Role of Common Control Frameworks"
-[2026 · BSides Atlanta  · Atlanta, GA    ]  ◷  "The Security Tool That Could Leak Your Secrets"
+[2026 · BSides Atlanta  · Atlanta, GA    ]  ✓  "The Security Tool That Could Leak Your Secrets"
 ```
 
 ---
